@@ -17,7 +17,7 @@ This application uses node.js and express.js to generate a note taker app. This 
     - http://localhost:3001
 
 ## Screenshots
+                     
+<img width="1233" alt="homepage" src="https://user-images.githubusercontent.com/119918403/227386860-d739d133-cff5-4a30-b778-4749e405068e.png">
 
-
-
-
+<img width="1229" alt="notespage" src="https://user-images.githubusercontent.com/119918403/227386878-d4a18616-ded1-43f8-bebe-c0c5e44bb809.png">
