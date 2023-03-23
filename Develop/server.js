@@ -46,7 +46,7 @@ app.post('/api/notes', (req,res)=> {
     
 })
 
-// delete
+// delete routes
 app.delete('/api/notes/:id', (req,res)=> {
     const savedNote = JSON.parse(fs.readFileSync(path.join(__dirname, './db/db.json'), "utf-8"))
     const filterNotes = savedNote.filter(note=>note.id!==req.params.id)
